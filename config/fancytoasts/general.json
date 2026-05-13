@@ -1,7 +1,6 @@
 {
   "isJadeHiding": true,
   "isBossBarHiding": true,
-  "isAetherEnabled": true,
   "areSoundsEnabled": true,
   "taskVolume": 1.0,
   "goalVolume": 1.0,
@@ -14,7 +13,5 @@
   "offsetY": -50,
   "toastAnchor": "TOP",
   "toastScreenBehavior": "TRANSPARENT",
-  "titleDisplayTextType": "DEFAULT",
-  "descriptionDisplayTextType": "DEFAULT",
-  "version": 3
+  "version": 2
 }
